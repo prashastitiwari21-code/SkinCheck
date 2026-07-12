@@ -67,6 +67,11 @@ Then open the local URL shown in your terminal (usually `http://localhost:5173`)
 
 📺 [Demo video link here]
 
+## Screenshots
+
+![SkinCheck main screen](./skincheck-main.png)
+![SkinCheck results](./skincheck-results.png)
+
 ## License
 
 MIT — see [LICENSE](./LICENSE)
