@@ -65,7 +65,7 @@ Then open the local URL shown in your terminal (usually `http://localhost:5173`)
 
 ## Demo
 
-📺 [Demo video link here]
+📺 https://youtu.be/fvV-5slDJIA
 
 ## Screenshots
 
