@@ -72,6 +72,13 @@ Then open the local URL shown in your terminal (usually `http://localhost:5173`)
 ![SkinCheck main screen](./skincheck-main.png)
 ![SkinCheck results](./skincheck-results.png)
 
+## Attribution
+
+- AI model: [`Xenova/all-MiniLM-L6-v2`](https://huggingface.co/Xenova/all-MiniLM-L6-v2) via Hugging Face
+- Runtime: [Transformers.js](https://github.com/xenova/transformers.js)
+- Irritant/alternative ingredient lists curated from publicly available dermatology literature and skincare guides
+
+  
 ## License
 
 MIT — see [LICENSE](./LICENSE)
